@@ -1,5 +1,5 @@
 let items = [
-  { id: 1, name: 'First Item', description: 'This is your first item.' }
+  { id: 1, name: 'Sample Item', description: 'This is a sample item.' }
 ];
 
 exports.getAllItems = (req, res) => {
